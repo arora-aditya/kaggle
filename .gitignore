@@ -7,6 +7,7 @@
 *.o
 *.so
 *.dSYM
+*.ipynb_checkpoints
 
 # Packages #
 ############
