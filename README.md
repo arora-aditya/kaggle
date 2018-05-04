@@ -3,9 +3,9 @@
 Data Analytics and Machine Learning on Kaggle Datasets
 
 ## Data Analytics
-- [Silicon Valley Diversity](/Silicon-Valley-Diversity)
-- [Facebook Messenger](/Facebook-Messenger/)
+- [Silicon Valley Diversity](/kaggle/Silicon-Valley-Diversity)
+- [Facebook Messenger](/kaggle/Facebook-Messenger/)
 
 ## Some basic machine learning
-- [Titanic Challenge on Kaggle](/Titanic)
-- [NYC Taxi Cab Challenge](/NYC-Taxi-Duration)
+- [Titanic Challenge on Kaggle](/kaggle/Titanic)
+- [NYC Taxi Cab Challenge](/kaggle/NYC-Taxi-Duration)
